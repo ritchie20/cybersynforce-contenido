@@ -1,0 +1,17 @@
+CONTENIDO DE LA PAGINA "TECNOLOGIAS" DEL SITIO WWW.CYBERSYNFORCE.COM
+V. 0.1
+===========================================================
+
+Puppet administra su infraestructura a través de todo su ciclo de vida, desde el provisioning y configuración hasta la orquestación y reporting. Escale de decenas a miles de servidores automatizando tareas repetitivas y deployando de manera rápida aplicaciones criticas.
+
+Digital ocean es un servicio en la nube creado para desarrolladores que necesiten desplegar y escalar sus aplicaciones rápidamente. Elija su distribución Linux favorita y acceda a su ambiente de desarrollo desde cualquier parte del mundo.
+
+Github es el repositorio de código en la nube más grande del planeta. Sincronice el código de sus proyectos sin depender de una VPN ni un servidor central.     Si el negocio lo requiere, también puede ser implementado como cluster On-Premise
+
+Jenkins testea y construye proyectos de software a través del paradigma de Continuous Integration.     Permite integrar cambios de manera sencilla a los proyectos y facilita la disponibilidad del ultimo build funcional.
+
+AWS le permite dedicar los recursos de TI e ingeniería a proyectos que impulsen el crecimiento del negocio en lugar de utilizarlos para la infraestructura de TI.     Despliegue un ambiente totalmente productivo en AWS reduciendo costos de manera dramática.
+
+Atlassian provee software para la administración de proyectos.     JIRA es una herramienta para seguimiento de proyectos y control de cambio.     Otro producto de Atlassian es Confluence, una plataforma para trabajo colaborativo, permite co-crear contenido y compartir documentos y otros medios.
+
+Vagrant permite levantar ambientes virtuales en minutos. A través de la automatización, Vagrant disminuye los tiempos de configuración de ambientes e incrementa la producción de los desarrolladores.     El provisioning de las máquinas es sobre VirtualBox, WMware, AWS o cualquier otro proveedor. 

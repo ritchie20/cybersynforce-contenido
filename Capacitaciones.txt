@@ -1,0 +1,19 @@
+CONTENIDO DE LA PAGINA "CAPACITACIONES" DEL SITIO WWW.CYBERSYNFORCE.COM
+V. 0.1
+===========================================================
+
+Hacemos una evaluación del perfil de la organización para establecer la línea de base. A partir de esto se diseña un entrenamiento de las metodologías y herramientas con el fin de agilizar las operaciones.
+
+Provisioning: Aprenda como provisionar infraestructura de manera correcta utilizando Puppet Enterprise. Los alumnos aprenderán a instalar Puppet y escribir infraestructura como código mediante ejemplos sencillos. También se discutirán las mejores practicas y como utilizar módulos existentes.
+Con Vagrant aprenda a crear ambientes virtuales totalmente portables, preconfigurados y alineados con las especificaciones de los ambientes productivos mediante el uso de Puppet Enterprise.
+
+Github: Aprenda a almacenar de todas las configuraciones de provisioning realizadas tanto por desarrollo como por operaciones. Estas pueden ser distribuidas a distintos ambientes de una manera muy sencilla y rápida. La simbiosis entre GitHub y las herramientas de provisioning como Puppet y Vagrat, hacen de esta combinación uno de los pilares para la implementación de DevOps en una organización TI.
+
+Pretotype: Diseñado por Google, Pretotype propone maneras sencillas y baratas de validar el impacto de un potencial proyecto y determinar si este será rentable una vez puesto en producción. Las herramientas que propone Pretotype permiten que la validación se haga con un costo mínimo antes de la etapa de prueba de concepto o prototipado.
+
+Attlassian: Jira facilita la administración de proyectos e incidencias creando una base de conocimientos que permite que cualquier integrante tenga acceso a la documentación de las soluciones. De esta manera, se asegura que cualquier persona tendrá información base para enfrentar una incidencia que ya ocurrió en el pasado.
+Attlassian también ofrece Concluence, una Wiki que permite el intercambio de conocimientos entre equipos de una manera transparente y sencilla.
+
+DevOps: A través de la utilización de nuevas metodologías y herramientas revolucionarias, DevOps promueve la integración de todos los equipos TI en la búsqueda de objetivos comunes. Para esto, es crítico la automatización de tareas rutinarias ya que estas le restan valor a las personas en la organización Para lograr este objetivo se utilizan herramientas de automatización y provisioning como Puppet y Vagrant.
+
+KanBan + Pomodoro: ¿Como hacer seguimiento a las tareas en un departamento TI? Kanban propone priorizar las tareas con el objetivo de entregar el máximo valor a la organización lo antes posible, todo esto de una manera sencilla y visual. Pomodoro permite tener métricas del tiempo tomado para realizar una tarea, esto permite que a futuro las estimaciones para tareas o proyectos sean más realistas.

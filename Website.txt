@@ -1,0 +1,2 @@
+Este archivo debería contener todo el texto que se agrega a nuestro sitio web. 
+De esta manera podremos migrar facilmente nuestro sitio entre distintas plataformas.

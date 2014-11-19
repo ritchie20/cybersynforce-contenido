@@ -1,0 +1,24 @@
+CONTENIDO DE LA PAGINA "CONSULTORIA" DEL SITIO WWW.CYBERSYNFORCE.COM
+V. 0.1
+===========================================================
+
+Consiste en la evaluación del estado de operaciones en relación a las demandas estratégicas del negocio y la generación e implementación de un Plan de acción para la transformación de un departamento TI en uno de High Performance.
+
+Definición de Línea de Base: Proceso de auditoría con el fin de determinar cómo está funcionando actualmente la organización TI. Luego de este análisis se proponen mejoras tanto a nivel organizacional como en el uso de nuevas herramientas que potencien la entrega de valor.
+Algunos ítems a identificar y documentar:
+Artefactos frágiles y Deuda Técnica
+Sistema de versionamiento de software
+Manejo y documentación de incidencias
+Manejo de ambientes en Operaciones y tiempos de respuesta
+Comunicación entre las distintas áreas
+Rol área de QA
+
+Cloud Computing: Ahorre miles de dólares en servidores, networking, storage, etc. La nube le permite levantar desde máquinas con escasos recursos (ideales para ambiente de desarrollo) hasta servidores multinúcleo con cientos de GB de ram. Estas máquinas están operativas en escasos minutos (o incluso segundos) y solo se paga por el tiempo y poder de cómputo utilizado. La nube en conjunto con GitHub y Puppet permite levantar un ambiente productivo en horas y no días.
+
+Implementación DevOps: DevOps es un cambio de paradigma y metodologías centrado fuertemente en las personas. DevOps propone que los departamentos de Desarrollo, QA y Operaciones trabajen en equipo para lograr un solo bloque con objetivos y motivaciones compartidos por todo el departamento. Implementa DevOps con el apoyo de CyberSyn y evoluciona a un equipo High Performance.
+
+Migración a repositorios colaborativos (Github): Github es el repositorio más utilizado en el mundo y sus ventajas son indiscutibles, al estar basado en un sistema distribuido en la nube uno puede acceder desde cualquier lugar en el mundo y no se depende de un único repositorio que en caso de fallar nos dejaría sin los fuentes disponibles.
+
+Automatización de ambientes y provisioning: La automatización y provisioning de ambientes es de suma importancia para todo departamento TI DevOps. Con herramientas como Puppet y Vagrant, se puede automatizar la instalación y configuración de ambientes completos. Esto permite levantar un servicio en horas o incluso minutos y no días como es la norma en la actualidad.
+
+Recruiting: Tener las personas correctas para el trabajo a realizar es crítico para crear productos de calidad y que entreguen máximo valor a la organización. CyberSyn te puede ayudar a encontrar a las personas indicadas para llevar de mejor manera todos tus proyectos con los paradigmas y metodologías DevOps de vanguardia.
